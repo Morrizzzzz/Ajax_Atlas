@@ -1,0 +1,105 @@
+{
+  "players": 636,
+  "mappedBirthplaces": 623,
+  "distinctMappedBirthplaces": 322,
+  "playersWithClubHistory": 629,
+  "clubSpells": 4139,
+  "mappedClubSpells": 3095,
+  "missingBirthplaces": [
+    {
+      "name": "Bertus Hoogerman",
+      "birthplace": null,
+      "source": "https://en.wikipedia.org/wiki/Bertus_Hoogerman?action=edit&redlink=1"
+    },
+    {
+      "name": "Darío Cvitanich",
+      "birthplace": "Baradero, Argentina",
+      "source": "https://en.wikipedia.org/wiki/Darío_Cvitanich"
+    },
+    {
+      "name": "Henri Toivomäki",
+      "birthplace": "Mäntsälä, Finland",
+      "source": "https://en.wikipedia.org/wiki/Henri_Toivomäki"
+    },
+    {
+      "name": "Johnny Hansen",
+      "birthplace": null,
+      "source": "https://en.wikipedia.org/wiki/Johnny_Hansen_(footballer,_born_1966)"
+    },
+    {
+      "name": "Ken Taylor",
+      "birthplace": null,
+      "source": "https://en.wikipedia.org/wiki/Ken_Taylor_(footballer,_born_1927?action=edit&redlink=1"
+    },
+    {
+      "name": "Lloyd Doesburg",
+      "birthplace": "Suriname",
+      "source": "https://en.wikipedia.org/wiki/Lloyd_Doesburg"
+    },
+    {
+      "name": "Lucas Jetten",
+      "birthplace": "Natalspruit, South Africa",
+      "source": "https://en.wikipedia.org/wiki/Lucas_Jetten"
+    },
+    {
+      "name": "Oualid Agougil",
+      "birthplace": "Netherlands",
+      "source": "https://en.wikipedia.org/wiki/Oualid_Agougil"
+    },
+    {
+      "name": "Piet Burgers",
+      "birthplace": null,
+      "source": "https://en.wikipedia.org/wiki/Piet_Burgers?action=edit&redlink=1"
+    },
+    {
+      "name": "Pim van Dord",
+      "birthplace": null,
+      "source": "https://en.wikipedia.org/wiki/Pim_van_Dord?action=edit&redlink=1"
+    },
+    {
+      "name": "Robert Gehring",
+      "birthplace": null,
+      "source": "https://en.wikipedia.org/wiki/Robert_Gehring?action=edit&redlink=1"
+    },
+    {
+      "name": "Sjaak Storm",
+      "birthplace": null,
+      "source": "https://en.wikipedia.org/wiki/Sjaak_Storm?action=edit&redlink=1"
+    },
+    {
+      "name": "Werner Schaaphok",
+      "birthplace": "Berlin, Germany",
+      "source": "https://en.wikipedia.org/wiki/Werner_Schaaphok"
+    }
+  ],
+  "missingClubHistories": [
+    {
+      "name": "Bertus Hoogerman",
+      "source": "https://en.wikipedia.org/wiki/Bertus_Hoogerman?action=edit&redlink=1"
+    },
+    {
+      "name": "Johnny Hansen",
+      "source": "https://en.wikipedia.org/wiki/Johnny_Hansen_(footballer,_born_1966)"
+    },
+    {
+      "name": "Ken Taylor",
+      "source": "https://en.wikipedia.org/wiki/Ken_Taylor_(footballer,_born_1927?action=edit&redlink=1"
+    },
+    {
+      "name": "Piet Burgers",
+      "source": "https://en.wikipedia.org/wiki/Piet_Burgers?action=edit&redlink=1"
+    },
+    {
+      "name": "Pim van Dord",
+      "source": "https://en.wikipedia.org/wiki/Pim_van_Dord?action=edit&redlink=1"
+    },
+    {
+      "name": "Robert Gehring",
+      "source": "https://en.wikipedia.org/wiki/Robert_Gehring?action=edit&redlink=1"
+    },
+    {
+      "name": "Sjaak Storm",
+      "source": "https://en.wikipedia.org/wiki/Sjaak_Storm?action=edit&redlink=1"
+    }
+  ]
+}
